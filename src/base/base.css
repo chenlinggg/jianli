@@ -1,0 +1,21 @@
+
+/* 版心居中 */
+.flex-c{
+width: 60%;
+margin: 0 auto;
+
+}
+.li-noty{
+    list-style: none;
+}
+/* 白色字体，黑色背景 */
+.bg-bla-cl-wi{
+    background-color: black;
+    font-size: medium;
+    color: white;
+}
+/* 圆角-5px */
+.ra-8px{
+    border: 1px solid white;
+    border-radius: 8px;
+}
